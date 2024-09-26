@@ -1,6 +1,9 @@
 # Hola mundo, como va todo?
 ## Esto es un subtitulo
 
+## Hobbies
+- Fulbo
+- F1
 
 ## Technologies
 - Back-End: Proficient in Java, I bring to the table a strong understanding of server-side development...
